@@ -1,6 +1,8 @@
 Leaflet Routing Machine / OSRM 4
 ================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/perliedman/lrm-osrm4.svg)](https://greenkeeper.io/)
+
 [![npm version](https://img.shields.io/npm/v/lrm-osrm4.svg)](https://www.npmjs.com/package/lrm-osrm4)
 
 Extends [Leaflet Routing Machine](https://github.com/perliedman/leaflet-routing-machine) with support for [OSRM](https://graphhopper.com/)'s old major version, OSRM 4; Leaflet Routing Machine has built-in support for OSRM 5.
